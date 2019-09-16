@@ -1,0 +1,24 @@
+$colorRose: #fa6980;
+$colorLightGray: #F6F8F9;
+$colorDarkGray: #A6ADB4;
+
+$landingMaxWidth: 1440px;
+$contentMaxWidth: 1160px;
+
+@mixin FontAcuminPro{
+    font-family: acumin-pro, Arial, sans-serif;;
+    font-weight: normal;
+}
+@mixin FontAcuminProBold{
+    font-family: acumin-pro, Arial, sans-serif;;
+    font-weight: bold;
+}
+@mixin FontHelvetica{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: normal;
+}
+@mixin FontHelveticaBold{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+@import url("https://use.typekit.net/dpn4hfh.css");

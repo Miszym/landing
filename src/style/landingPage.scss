@@ -1,0 +1,9 @@
+@import "_navbar";
+@import "_news";
+@import "_footer";
+@import "_trending";
+
+body{
+    margin: 0;
+    background-color: $colorLightGray;
+}
